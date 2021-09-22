@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.dominos.com/en/pages/order/#!/section/Food/category/AllPizzas/" ContentHash="bVVnf4LASk-FaBDoqTXvMQ" DesignTimeRectangle="1226, 637, 16, 16" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;webctrl name='S_PIZZA|Topping|N' tag='INPUT' type='checkbox' /&gt;" FuzzySelectorArgument="&lt;webctrl name='S_PIZZA|Topping|N' tag='INPUT' type='checkbox' aaname='' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pizza Builder - Find a Nearby Domino&amp;apos;s' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1250, 639, 67, 17" ElementType="Text" FriendlyName="'Pineapple'" FullSelectorArgument="&lt;webctrl aaname=' Pineapple ' parentid='toppingsWrapper' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname=' Pineapple ' parentid='toppingsWrapper' tag='SPAN' type='' check:text='Pineapple' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">0hCVeY1HDbUWJMyZdqi6YyA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="InformativeScreenshot" originalValue="61c4ab97b1dbc9bfab55bfc4e15c23ca.png" xmlns="">0yFc-lyTVlUSewTHCPRFeeA</imageRef>
+</TargetAnchorable>

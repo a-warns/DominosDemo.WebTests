@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Bo9iCdutiUmxrUEDi-A0Gw",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/Bo9iCdutiUmxrUEDi-A0Gw",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/Q61M5fiKzkWBAAIBHAhZjQ",
+  "Name": "BtnViewCart",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-09-21T23:57:24.0858405Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T23:57:33.4773404Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

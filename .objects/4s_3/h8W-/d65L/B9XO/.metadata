@@ -1,0 +1,16 @@
+﻿{
+  "Id": "B9XOpaz37EmeowNADPaoyg",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/B9XOpaz37EmeowNADPaoyg",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/d65LnpILJU66YaQTewVkbw",
+  "Name": "TxtZipCode",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2021-09-21T20:36:23.2629888Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T20:36:33.4715363Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

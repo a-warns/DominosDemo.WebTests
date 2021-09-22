@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.dominos.com/en/pages/order/#!/section/Food/category/AllPizzas/" ContentHash="_GiB2kvVFki_PSvzGVaF6w" DesignTimeRectangle="379, 564, 191, 46" ElementType="Text" FriendlyName="'Order'" FullSelectorArgument="&lt;webctrl aaname=' Order ' parentid='categoryPage2' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname=' Order ' parentid='categoryPage2' tag='A' type='' check:text='Order' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Entrees | Pizzas - Find a Nearby Domino&amp;apos;s' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0opE1mPoMVkiJh-GhN5iXnQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="99c2834ef61a9924f8376b85a1f443ce.png" xmlns="">0IlPAI8NG7ESyvtojyJeGMw</imageRef>
+</TargetAnchorable>

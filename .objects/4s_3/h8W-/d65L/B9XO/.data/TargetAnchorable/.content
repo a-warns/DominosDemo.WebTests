@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.dominos.com/en/pages/order/#!/locations/search/?type=Delivery" ContentHash="CVfJEyY7Hk2BdPQHZPpUqw" DesignTimeRectangle="705, 632, 255, 25" ElementType="InputBox" FriendlyName="'INPUT Postal_Code_Sep'" FullSelectorArgument="&lt;webctrl id='Postal_Code_Sep' tag='INPUT' type='tel' /&gt;" FuzzySelectorArgument="&lt;webctrl id='Postal_Code_Sep' tag='INPUT' type='tel' aaname=' * Zip Code: ' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pizza Restaurants Near Me - Find a Nearby Domino&amp;apos;s' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="422, 640, 255, 15" ElementType="Text" FriendlyName="'* Zip Code'" FullSelectorArgument="&lt;webctrl aaname='  Zip Code: ' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='  Zip Code: ' tag='LABEL' type='' check:text='* Zip Code:' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">13xRT2IhtTki_TwTbdqHU6g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0A6A-PjwO8E6FRWh2ZjyY1Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f4d0b05913961ab3b5c063ff03847bce.png" xmlns="">0xkMp19hEh0yzXIUMhgiYsQ</imageRef>
+</TargetAnchorable>

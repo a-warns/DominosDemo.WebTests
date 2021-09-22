@@ -1,0 +1,16 @@
+﻿{
+  "Id": "0WHQ0DzOaE29F5v_KFq1sg",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/0WHQ0DzOaE29F5v_KFq1sg",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/Q61M5fiKzkWBAAIBHAhZjQ",
+  "Name": "BtnDelivery",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-09-21T20:34:19.0392212Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T20:35:11.3735328Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

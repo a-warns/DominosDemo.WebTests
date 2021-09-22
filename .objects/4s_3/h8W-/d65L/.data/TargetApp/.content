@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="oinJWJIzb0GfG4ktbmMfUQ" Selector="&lt;html app='chrome.exe' title='Pizza Restaurants Near Me - Find a Nearby Domino&amp;apos;s'/&gt;" Url="https://www.dominos.com/en/pages/order/#!/locations/search/?type=Delivery" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0Cfy8IeIqUkyD0LA6srfKGg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d3358efeb3d742fb18d85da0ed52d860.png" xmlns="">0B3HRxCPLYUaoXJFW9YWBKA</imageRef>
+</TargetApp>

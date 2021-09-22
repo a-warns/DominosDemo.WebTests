@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.dominos.com/en/pages/order/#!/section/Food/category/AllPizzas/" ContentHash="BMd6avRiZ0eqKI0xLBQLkw" DesignTimeRectangle="457, 875, 61, 61" ElementType="RadioButton" FriendlyName="'INPUT pizza_size12'" FullSelectorArgument="[String.Format(&quot;&lt;webctrl id='pizza_size|{0}' tag='INPUT' type='radio' /&gt;&quot;, in_PizzaSize)]" FuzzySelectorArgument="[String.Format(&quot;&lt;webctrl id='pizza_size|{0}' tag='INPUT' type='radio' aaname='' /&gt;&quot;, in_PizzaSize)]" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pizza Builder - Find a Nearby Domino&amp;apos;s' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0rTlW3qLptEaCHGK8C38L3A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="aadbf0bf7e8ae844fbfd28c76439589d.png" xmlns="">0UT1cuSOszkm_LcXoUaFfHA</imageRef>
+</TargetAnchorable>

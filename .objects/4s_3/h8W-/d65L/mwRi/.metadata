@@ -1,0 +1,16 @@
+﻿{
+  "Id": "mwRiw_v0pUqHF3jn1rkl5Q",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/mwRiw_v0pUqHF3jn1rkl5Q",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/d65LnpILJU66YaQTewVkbw",
+  "Name": "TxtStreetAddress",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2021-09-21T20:35:45.4300017Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T20:36:02.7867331Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

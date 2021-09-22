@@ -1,0 +1,16 @@
+﻿{
+  "Id": "DQxJDBYX6U-2PcklRYYvLA",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/DQxJDBYX6U-2PcklRYYvLA",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/Q61M5fiKzkWBAAIBHAhZjQ",
+  "Name": "ButtonPopUpClose",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-09-21T23:47:16.5172113Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T23:48:06.8788759Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

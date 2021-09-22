@@ -1,0 +1,16 @@
+﻿{
+  "Id": "a6VIwlnmlEmt-8IZEJWMKA",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/a6VIwlnmlEmt-8IZEJWMKA",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/L4xCXrbmO0ygC3nlM7AQvw",
+  "Name": "BtnOrder",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-09-21T20:39:46.9319856Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T20:40:04.1737734Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

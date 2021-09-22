@@ -1,0 +1,15 @@
+﻿{
+  "Id": "d65LnpILJU66YaQTewVkbw",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/d65LnpILJU66YaQTewVkbw",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/h8W-QqDvQk-VqCW6Lm9dDg",
+  "Name": "StoreLocator",
+  "Type": "Screen",
+  "Created": "2021-09-21T20:35:34.1176773Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T20:35:39.91288Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

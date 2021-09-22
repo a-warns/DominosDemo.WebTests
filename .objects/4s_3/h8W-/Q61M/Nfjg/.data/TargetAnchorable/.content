@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.dominos.com/en/pages/order/#!/section/Food/category/AllPizzas/" ContentHash="3ceZ2Kg53EmwyUWAnafczQ" DesignTimeRectangle="1220, 443, 131, 28" ElementType="Text" FriendlyName="'Subtotal: $18.99'" FullSelectorArgument="&lt;webctrl tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='P' type='' aaname='Subtotal:*' /&gt;" Reference="BZlOd1YdCEOlgp-Nwjx0AQ/NfjgFjH-LUuCs31L6ioz0g" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find a Nearby Domino&amp;apos;s' /&gt;" SearchSteps="FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1386, 447, 141, 22" ElementType="Text" FriendlyName="'Go to checkout'" FullSelectorArgument="&lt;webctrl aaname='Go to checkout' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Go to checkout' tag='SPAN' type='' check:text='Go to checkout' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1kVgsakZhcEWOolX2564ESQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0uPWLYaB4i0CGaEURZof5fg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="94687ab287c1a3112ae01d117593f303.png" xmlns="">02efpXSxpCEG2Bjp2e1e82Q</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="3YNK6qtc-0mBjospfc6gVg" Reference="BZlOd1YdCEOlgp-Nwjx0AQ/Q61M5fiKzkWBAAIBHAhZjQ" Selector="&lt;html app='chrome.exe' title='*Pizza*' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">03ePJF7HwW0y5wCThwXpWnw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="0138e7b0514baff217a9a8c8c6113cdd.png" xmlns="">0zn69y4XgOEW_DcpvqltzSw</imageRef>
+</TargetApp>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.dominos.com/en/pages/order/#!/section/Food/category/AllPizzas/" ContentHash="_9KwY8ovyUu75qu_gqknQg" DesignTimeRectangle="706, 650, 240, 46" ElementType="Button" FriendlyName="'No Thanks'" FullSelectorArgument="&lt;webctrl parentid='stepUpsell' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='stepUpsell' tag='BUTTON' type='button' aaname='No Thanks' check:text='No Thanks' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pizza Builder - Find a Nearby Domino&amp;apos;s' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0zsXx-Yz4FU60izNCXEnSzw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="97639293217c641e4eb67d770821f9fc.png" xmlns="">0CzXAIM-DlkypAW9m9wtQaw</imageRef>
+</TargetAnchorable>

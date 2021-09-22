@@ -1,0 +1,16 @@
+﻿{
+  "Id": "xXs8_wnwOEOrNpYEj3QG-g",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/xXs8_wnwOEOrNpYEj3QG-g",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/L4xCXrbmO0ygC3nlM7AQvw",
+  "Name": "BtnNoThanks",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-09-21T23:53:52.8086293Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T23:54:02.3022473Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

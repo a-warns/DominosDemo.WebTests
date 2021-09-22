@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.dominos.com/" ContentHash="S7V1_R6UC0uhZnNCB99oIw" DesignTimeRectangle="884, 231, 225, 63" ElementType="Text" FriendlyName="'Delivery'" FullSelectorArgument="&lt;webctrl aaname='Delivery' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Delivery' tag='A' type='' check:text='Delivery' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pizza Delivery &amp;amp; Carryout, Pasta, Chicken &amp;amp; More | Domino&amp;apos;s' /&gt;" SearchSteps="Selector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0PeddysH0XUSh8GLBGLEj5A</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="a037fe2faa3c7675d43abe3e46af9580.png" xmlns="">0nM0GKhZA0UaSG_7uuoQy-g</imageRef>
+</TargetAnchorable>

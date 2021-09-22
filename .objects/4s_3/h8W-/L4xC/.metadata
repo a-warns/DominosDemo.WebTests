@@ -1,0 +1,15 @@
+﻿{
+  "Id": "L4xCXrbmO0ygC3nlM7AQvw",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/L4xCXrbmO0ygC3nlM7AQvw",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/h8W-QqDvQk-VqCW6Lm9dDg",
+  "Name": "Menu",
+  "Type": "Screen",
+  "Created": "2021-09-21T20:38:31.8487468Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T20:38:36.192654Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

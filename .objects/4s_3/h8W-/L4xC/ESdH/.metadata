@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ESdHXKaulEOob27mmi1KAQ",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/ESdHXKaulEOob27mmi1KAQ",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/L4xCXrbmO0ygC3nlM7AQvw",
+  "Name": "BtnPizza",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-09-21T20:38:43.3401118Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T20:39:00.2944657Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

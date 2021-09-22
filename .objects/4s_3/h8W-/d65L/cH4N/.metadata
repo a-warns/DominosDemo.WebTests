@@ -1,0 +1,16 @@
+﻿{
+  "Id": "cH4NH4WlaUy9rm4Pw7gVYg",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/cH4NH4WlaUy9rm4Pw7gVYg",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/d65LnpILJU66YaQTewVkbw",
+  "Name": "BtnClose",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-09-21T23:49:18.293848Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T23:49:46.9188281Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

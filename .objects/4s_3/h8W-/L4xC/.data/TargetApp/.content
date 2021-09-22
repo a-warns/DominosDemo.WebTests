@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="RhtlANcNlkycqEs8BDo-aw" Selector="&lt;html app='chrome.exe' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0CGWgyO4JMUC0CnCjlZJ0HA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="ba722bd082a5421a060d43d7a77fc11c.png" xmlns="">01oudkdLbOkiVlHZzx-h6gg</imageRef>
+</TargetApp>

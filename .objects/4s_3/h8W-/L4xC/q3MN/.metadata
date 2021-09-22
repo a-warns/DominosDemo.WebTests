@@ -1,0 +1,16 @@
+﻿{
+  "Id": "q3MNa2ACMkKkW59wGY6Qaw",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/q3MNa2ACMkKkW59wGY6Qaw",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/L4xCXrbmO0ygC3nlM7AQvw",
+  "Name": "ChkPineapple",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-09-21T23:54:37.3316337Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T23:54:56.8081116Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

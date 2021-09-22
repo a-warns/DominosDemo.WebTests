@@ -1,0 +1,16 @@
+﻿{
+  "Id": "EmKAjYazWE69dRnA_upuxQ",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/EmKAjYazWE69dRnA_upuxQ",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/L4xCXrbmO0ygC3nlM7AQvw",
+  "Name": "ChkHam",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Created": "2021-09-21T23:54:09.7773325Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T23:54:33.1411628Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

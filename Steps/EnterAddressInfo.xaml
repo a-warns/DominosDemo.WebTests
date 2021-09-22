@@ -1,0 +1,120 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="EnterAddressInfo" mva:VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="484,1478.4" sap2010:WorkflowViewState.IdRef="EnterAddressInfo_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:mva="clr-namespace:Microsoft.VisualBasic.Activities;assembly=System.Activities" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=mscorlib" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Activities.DynamicUpdate</x:String>
+      <x:String>System.Security</x:String>
+      <x:String>System.ComponentModel</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="EnterAddressInfo" sap:VirtualizedContainerService.HintSize="475.2,1313.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Application/Browser 'StoreLocator'" sap:VirtualizedContainerService.HintSize="433.6,1220.8" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" Version="V1">
+      <uix:NApplicationCard.Body>
+        <ActivityAction x:TypeArguments="x:Object">
+          <ActivityAction.Argument>
+            <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+          </ActivityAction.Argument>
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="375.2,1004" sap2010:WorkflowViewState.IdRef="Sequence_2">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <uix:NClick ClickType="Single" DelayBefore="2" DisplayName="Click 'BtnClose'" sap:VirtualizedContainerService.HintSize="333.6,167.2" sap2010:WorkflowViewState.IdRef="NClick_1" KeyModifiers="None" MouseButton="Left">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable ContentHash="dPVDciD7P0mEHRVSmmdjJw" DesignTimeRectangle="374, 10, 31, 28" ElementType="Button" FriendlyName="'Close'" FullSelectorArgument="&lt;ctrl name='www.dominos.com wants to: Know your location' role='dialog' /&gt;&lt;ctrl name='Close' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='www.dominos.com wants to: Know your location' role='dialog' /&gt;&lt;ctrl name='Close' role='push button' automationid='' check:fulltext='Close' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACMAAAAgCAYAAACYTcH3AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADZSURBVFhH7dI9CsJAEIZhb2phY61goQgWHkUQGxG8gb+VWqoHST3yBVaWdQb8ZhEs5oWQkAzsA5mO/FGBsQqMVWCsAmMVGCsa0zSN7I/n9m71zYwWjVksV9Lt9WU6m6uH4R2+YQazTDTm/ni2B2mgHIILs0yundkdTh+gEoIZNvcCl6BaCHJjUA6qhaAqDH7NcDR5Q/Cc7xCbG1PuSLrSDnlyYbRlLXfIA6IxGiRVC6Ix681WhaRyEGaZaMzlepPBaKxCUviGGcwyuRf4FwXGKjBWgbEKjJ7IC3MN/3X7ZreQAAAAAElFTkSuQmCC" InformativeScreenshot="0015f46b44b8c6c94269cbb0b4faf3fe.png" Reference="BZlOd1YdCEOlgp-Nwjx0AQ/cH4NH4WlaUy9rm4Pw7gVYg" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='www.dominos.com wants to' /&gt;" SearchSteps="Selector, FuzzySelector, Image" WaitForReadyArgument="Complete" />
+              </uix:NClick.Target>
+            </uix:NClick>
+            <uix:NTypeInto ActivateBefore="False" ClickBeforeMode="None" DisplayName="Type Into 'TxtStreetAddress'" EmptyFieldMode="None" sap:VirtualizedContainerService.HintSize="333.6,228" sap2010:WorkflowViewState.IdRef="NTypeInto_1" InteractionMode="Simulate" Text="2573 Nottingham Rd. Columbus, Ohio 43221">
+              <uix:NTypeInto.Target>
+                <uix:TargetAnchorable BrowserURL="https://www.dominos.com/en/pages/order/#!/locations/search/?type=Delivery" ContentHash="45FioHkU50ma4nJt6zvdbg" DesignTimeRectangle="705, 557, 538, 25" ElementType="InputBox" FriendlyName="'INPUT Street'" FullSelectorArgument="&lt;webctrl id='Street' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='Street' tag='INPUT' type='text' aaname=' *Street Address: ' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAh4AAAAdCAYAAADlyGXNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACmSURBVHhe7daxDcAgAMCw/n8KT9IJpA5sJZMt5Yc8EwAgYjwAgIzxAAAyezzGGJIkSVdaPuMBAPA34wEAZIwHAJAxHgBAxngAABnjAQBkjAcAkDEeAEDGeAAAGeMBAGSMBwCQMR4AQMZ4AAAZ4wEAZIwHAJAxHgBAxngAABnjAQBkjAcAkDEeAEDGeAAAGeMBAGSMBwCQOY6HJEnSjZY9HgAAd835AhESUtvWYRAzAAAAAElFTkSuQmCC" InformativeScreenshot="294002bcd311499e9408778e8f4bd797.png" Reference="BZlOd1YdCEOlgp-Nwjx0AQ/mwRiw_v0pUqHF3jn1rkl5Q" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pizza Restaurants Near Me - Find a Nearby Domino&amp;apos;s' /&gt;" SearchSteps="FuzzySelector, Image">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                      <uix:Target DesignTimeRectangle="422, 562, 255, 15" ElementType="Text" FriendlyName="'*Street Address'" FullSelectorArgument="&lt;webctrl aaname=' Street Address: ' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname=' Street Address: ' tag='LABEL' type='' check:text='*Street Address:' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAQMAAAATCAYAAACUcGjkAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAALpSURBVHhe7ZlBTisxDIbftXqGt+5FYMecg1XnFF1UPQUS6hqxqQRF3XGAvEwmjh3bmRlEW57E/0leNMlk7Cr/Hxf+BAAAiMAMAAAJmAEAIAEzAAAkYAYAgATMACzkHN7uV+F1e86fGzz3Yb1eczzswylP/e+cdl3Ouw+HPDYHPdPtJqqk72SzdNefAWYAZvnc3iUTOD+uwvFpMIW78PaeJyXaCCi0IQzrbiiMw2Yd+uf8ockp7B845/n1IzAD8Kv4fN+G499VeKF43MaxPCkYRFcJ42MfuiSuLuw/xqFy+95EGCzwWXFnwXabfsx5YUcDMwC/jqErIDM4PuVBBZlBS0jchlOMJkHP9TsyDxavfsaIWnUjLMr6pk8xIfAxB5kPG5ikyifud/DMoMop/uTQZkAmGZ/f6++sWU9Gzds8nborEzqEPo3bn0IwAzBP7AxeswkkU7iPnUGeqtAHVd2Ec2agx+36MYohGGGMMQroK2aQBaIFOZs/RxFtI6cU2gz03GQ9kebeJGyn5hxsKjADcCM8wcjbrcwLofkdBR1acfOJG/UkDj53C/qge2sslBPnSc9JwfBeVlg8Vmop9QmBOmbAeS2op2FSDO3hdzVzwAzAFRACyEEHfMoMpGm4t2eJQRwsRBskBk9gGpurjKYwM7WRNMSoRVxqk3stqcdZo4zBmvFyY4AZgCvCQiOhT5lBJdhbmcHke2KUbuUKZuB2Ql5oQeu1VvDGFJRpeMAMwIWgA1ofTHPrO62uawaN/ZgFQo/4ezO1mCVa2NbYOEceo/dxffzctBksq0djvl+N24X4wAzAxShCMCEEXf0RbBxvCda2vDlIVNVeIoTIqpwq8Q1MG47uYpr5xDBm58WkGURm6mm/n/LXHYOIYk60xpoDzABcFHtgtdDqAzsYQMsMBsx+5VBntIAmBaYEQHPGJDLOrVrlE5/77r8WzXu/VM8Y9fcmOhGKag+YAQBgBpgBACABMwAAREL4B6gjzWdNEx4RAAAAAElFTkSuQmCC" SearchSteps="FuzzySelector, Image" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NTypeInto.Target>
+            </uix:NTypeInto>
+            <uix:NTypeInto ActivateBefore="False" ClickBeforeMode="None" DisplayName="Type Into 'TxtZipCode'" EmptyFieldMode="None" sap:VirtualizedContainerService.HintSize="333.6,228" sap2010:WorkflowViewState.IdRef="NTypeInto_2" InteractionMode="Simulate" Text="43221">
+              <uix:NTypeInto.Target>
+                <uix:TargetAnchorable BrowserURL="https://www.dominos.com/en/pages/order/#!/locations/search/?type=Delivery" ContentHash="CVfJEyY7Hk2BdPQHZPpUqw" DesignTimeRectangle="705, 632, 255, 25" ElementType="InputBox" FriendlyName="'INPUT Postal_Code_Sep'" FullSelectorArgument="&lt;webctrl id='Postal_Code_Sep' tag='INPUT' type='tel' /&gt;" FuzzySelectorArgument="&lt;webctrl id='Postal_Code_Sep' tag='INPUT' type='tel' aaname=' * Zip Code: ' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAQMAAAAdCAYAAACuegmUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAB3SURBVHhe7dTRCYAwFMBA9x+lS1YJWPDDCd4dZIVcG+BhBkDMAMiZwVpL0sBenxkAs5gBEDMAYgZAzACIGQAxAyBmAMQMgJgBEDMAYgZAzACIGQAxAyBmAMQMgJgBEDMAYgZAzACIGQAxAyC/M5A0r9eZATDZ3jdy+sN/EAE2/AAAAABJRU5ErkJggg==" InformativeScreenshot="f4d0b05913961ab3b5c063ff03847bce.png" Reference="BZlOd1YdCEOlgp-Nwjx0AQ/B9XOpaz37EmeowNADPaoyg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pizza Restaurants Near Me - Find a Nearby Domino&amp;apos;s' /&gt;" SearchSteps="FuzzySelector, Image">
+                  <uix:TargetAnchorable.Anchors>
+                    <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                      <uix:Target DesignTimeRectangle="422, 640, 255, 15" ElementType="Text" FriendlyName="'* Zip Code'" FullSelectorArgument="&lt;webctrl aaname='  Zip Code: ' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='  Zip Code: ' tag='LABEL' type='' check:text='* Zip Code:' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAQMAAAATCAYAAACUcGjkAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIRSURBVHhe7Zk7jsIwEIb3WnsGai4C3eYWtOQUKVCugVKvaJB4iI4DzDqOx/FjbAIBJDb/J00RxzimmM8zyRcBAIACMgAAaCADAIAGMgAAaCADAIAGMgCfzbGi3WxBh6O5znKi+mdO83kqSmraWZtCXxebU/ezkTRr+Tnj4f9TUH02QyOADMCHcqHDspVAQ/vZii6tFJYVXc1dmXfLoKEyekYf5dZMexjIAADFha7Vin5n3zb2lRozdwdzrqngBF0/57xmbEXwU6u0ZRxBeOOPABkAYGirApaBqg7M6HDkxIwqAxaGmtOYe7eTmdcWWgK9XjwethNxZeJXNsWmEWXA++fwK5D0viAD8LFcq4WRQCeFnaoMhuMmlp8YSRlIkRKCI5C0MJhM+2KrlcwcRwahCDh6IUAGAHj0p3BcYudkYJNKGnPZlt36Q2TAc9292PXNWHjdEv2OE11YZ8A+IAMwOdzTU0rkpAyChGKhxOW84g4ZRM8zeOvzet57jeCdgSOoOIR2JQAyANPCSRgxiRVPkYF0SjN6vT45IQMA3g4nqIrMl4OkDFTEvXeiTVDYVsSTiNP78/gr24Q7gAzAZOAkT0eXRDkZRJFtAxz5CNFL5PUvEPt1eE94gQgmzGgZtIlvT2Nz3c3IYisEG3LJHs4L24ZQCEM/LfpVEGQAwOO4MjBD/xHIAIBbQAYAAM0kZED0B4ptO30jG8ApAAAAAElFTkSuQmCC" SearchSteps="FuzzySelector, Image" />
+                    </scg:List>
+                  </uix:TargetAnchorable.Anchors>
+                </uix:TargetAnchorable>
+              </uix:NTypeInto.Target>
+            </uix:NTypeInto>
+            <uix:NClick ClickType="Single" DisplayName="Click 'BtnContinueForDelivery'" sap:VirtualizedContainerService.HintSize="333.6,167.2" sap2010:WorkflowViewState.IdRef="NClick_2" KeyModifiers="None" MouseButton="Left">
+              <uix:NClick.Target>
+                <uix:TargetAnchorable BrowserURL="https://www.dominos.com/en/pages/order/#!/locations/search/?type=Delivery" ContentHash="DHhsdwa3TUS-WOophXSTdw" DesignTimeRectangle="804, 728, 310, 62" ElementType="Button" FriendlyName="'Continue for Delivery'" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' aaname='Continue for Delivery' check:text='Continue for Delivery' /&gt;" ImageBase64="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" InformativeScreenshot="16dd55d549c10aa1513b6c670a70fee2.png" Reference="BZlOd1YdCEOlgp-Nwjx0AQ/VwCwn8-QCk2DL6sjgvSL2w" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pizza Restaurants Near Me - Find a Nearby Domino&amp;apos;s' /&gt;" SearchSteps="FuzzySelector, Image" />
+              </uix:NClick.Target>
+            </uix:NClick>
+          </Sequence>
+        </ActivityAction>
+      </uix:NApplicationCard.Body>
+      <uix:NApplicationCard.TargetApp>
+        <uix:TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="oinJWJIzb0GfG4ktbmMfUQ" IconBase64="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" InformativeScreenshot="d3358efeb3d742fb18d85da0ed52d860.png" Reference="BZlOd1YdCEOlgp-Nwjx0AQ/d65LnpILJU66YaQTewVkbw" Selector="&lt;html app='chrome.exe' title='Pizza Restaurants Near Me - Find a Nearby Domino&amp;apos;s'/&gt;" Url="https://www.dominos.com/en/pages/order/#!/locations/search/?type=Delivery" />
+      </uix:NApplicationCard.TargetApp>
+    </uix:NApplicationCard>
+  </Sequence>
+</Activity>

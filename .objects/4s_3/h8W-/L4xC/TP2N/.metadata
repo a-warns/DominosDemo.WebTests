@@ -1,0 +1,16 @@
+﻿{
+  "Id": "TP2NHjOkCEW2bDE1g2GRjg",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/TP2NHjOkCEW2bDE1g2GRjg",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/L4xCXrbmO0ygC3nlM7AQvw",
+  "Name": "BtnX",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-09-21T23:56:24.740768Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T23:56:36.283057Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

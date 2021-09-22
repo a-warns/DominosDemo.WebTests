@@ -1,0 +1,16 @@
+﻿{
+  "Id": "wTMr2h_kK0O7ERQwVEfnqA",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/wTMr2h_kK0O7ERQwVEfnqA",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/L4xCXrbmO0ygC3nlM7AQvw",
+  "Name": "BtnToppings",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-09-21T23:53:21.5327272Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-21T23:53:34.2166737Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "NfjgFjH-LUuCs31L6ioz0g",
+  "Reference": "BZlOd1YdCEOlgp-Nwjx0AQ/NfjgFjH-LUuCs31L6ioz0g",
+  "ParentRef": "BZlOd1YdCEOlgp-Nwjx0AQ/Q61M5fiKzkWBAAIBHAhZjQ",
+  "Name": "LblSubtotal",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2021-09-21T23:57:41.7257377Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-09-22T00:31:27.0550838Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

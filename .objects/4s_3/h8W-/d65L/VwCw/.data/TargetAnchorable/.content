@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.dominos.com/en/pages/order/#!/locations/search/?type=Delivery" ContentHash="DHhsdwa3TUS-WOophXSTdw" DesignTimeRectangle="804, 728, 310, 62" ElementType="Button" FriendlyName="'Continue for Delivery'" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' aaname='Continue for Delivery' check:text='Continue for Delivery' /&gt;" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Pizza Restaurants Near Me - Find a Nearby Domino&amp;apos;s' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0WKFsWwsdH0W2sYrMoozxjw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="16dd55d549c10aa1513b6c670a70fee2.png" xmlns="">0g9OqvM9cf0m_eHC_QrT__w</imageRef>
+</TargetAnchorable>
